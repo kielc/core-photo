@@ -1,0 +1,4 @@
+lasio==0.29
+numpy==1.22.2
+matplotlib==3.5.1
+opencv-python==4.5.5.62
